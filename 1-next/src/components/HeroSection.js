@@ -21,7 +21,8 @@ const HeroSection = () => {
         </p>
         <div className="mt-4">
             <Link href={"/courses"}>
-            Explore</Link>
+            Explore</Link> <br/>
+            <button className="bg-white text-black p-2 rounded font-semibold text-2xl" >Submit</button>
         </div>
       </div>
     </div>
