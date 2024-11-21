@@ -1,0 +1,49 @@
+{
+    "courses":[
+     {
+        "id":1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar_fundamentals",
+        "description": "Learn the basics of palying guitar with our comprehensive beignner's course",
+        "instructor": "John Doe",
+        "isfeatured": true,
+        "price": 99.99
+    },
+    {
+        "id":2,
+        "title": "Piano for Beginner",
+        "slug": "piano-for-beginner",
+        "description": "Learn the basics of palying guitar with our comprehensive beignner's course",
+        "instructor": "John Doe",
+        "isfeatured": false,
+        "price": 99.99
+    },
+    {
+        "id":3,
+        "title": "Box",
+        "slug": "Box---",
+        "description": "Learn the basics of palying guitar with our comprehensive beignner's course",
+        "instructor": "John Doe",
+        "isfeatured": true,
+        "price": 99.99
+    },
+    {
+        "id":4,
+        "title": "Box 2",
+        "slug": "box--2",
+        "description": "Learn the basics of palying guitar with our comprehensive beignner's course",
+        "instructor": "John Doe",
+        "isfeatured": true,
+        "price": 99.99
+    },
+    {
+        "id":5,
+        "title": "Box 3",
+        "slug": "Box----3",
+        "description": "Learn the basics of palying guitar with our comprehensive beignner's course",
+        "instructor": "John Doe",
+        "isfeatured": false,
+        "price": 99.99
+    }
+]
+}
